@@ -1,0 +1,46 @@
+Want code quality to be good so you can be agile. IF code quality is bad, we can't be agile.
+Clean code lets our teammates read and improve upon our code. It's being a good teammate.
+Clean code reduces technical debt.
+Accidental complexity. Becomes things to fight through. Compiler throws errors at you over and over. By simplifying
+code, it becomes easier to read and manage.
+Comment why the code exists, but not what it does. Great advice!
+Clear, easier to read code is better than clever, harder to read code.
+I find it interesting that he pulled in a book(On Writing Well by Zinsser) about how to write better English (non-fiction stories) and used
+it as a reference in this speech!
+4 Principles for better writing (English or Code)
+1. Simplicity
+2. Clarity
+3. Brevity
+4. Humanity
+Long methods become longer. AVOID LONG METHODS!
+Give good, meaningful names for methods, variables, etc.
+
+
+
+
+1) What are you struggling the most in this class? Name some topics that you had the most difficulties in understanding.
+Some of the most difficult things for me to understand is recursion. I understand how it works, I get the theory behind it
+but coming up with the algorithms is difficult for me. This makes the homeworks difficult for me because while I
+understand Binary Search Trees for example, coming up with the recursive algorithms is a tough task for me. It takes a while
+for me to come up with these algorithms or I'll have to find some help online after a few hours of not coming up
+with working code.
+
+2) What's been the best way for you to learn? Reading books? Lecture discussion? Homework? Coding practice?
+The best way for me to learn is code alongs. I like being able to do it myself but also being told what is happening as I
+write it. It becomes muscle memory for me to type the algorithms out while learning the algorithms as well.
+
+3) What do you think would help improve your study that's missing from the class?
+Honestly, my biggest difficulty is time. I work full time, that this class, and still have a family to take care of.
+It becomes very difficult and tough to manage. I don't think anything that is missing from class would be able
+to help me better balance this. Actually, being in class is helpful because my work and my family know that is
+my study time and I usually don't get bothered :).
+
+4) In what aspects that you are going out of way to improve your learning and coding skill for this class?
+I try to apply the things I learn in school to what I do at work. I look for coding projects at work,
+I dive deeper into my services code to troubleshoot before I pull in one of my devs to help out, I read my services
+code to look for things that are familiar to me.
+
+5) Ask one question that you have been unable/afraid to ask in this class.
+I don't really have any questions to this point. the only thing that I can use more of is practice.
+I don't necessarily mean in the form of adding extra homework but more outside projects and doing some
+further research. I think I just need to implement more recursive functions to get more comfortable with them.
