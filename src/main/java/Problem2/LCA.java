@@ -2,6 +2,7 @@ package Problem2;
 
 import Problem1.TreeNode;
 
+//Resource: https://java2blog.com/lowest-common-ancestor-of-binary-tree/
 public class LCA {
     public static TreeNode<Integer> lowestCommonAncestor(TreeNode<Integer> root, TreeNode<Integer> p, TreeNode<Integer> q) {
            if (root == null)
